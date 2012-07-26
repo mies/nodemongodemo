@@ -1,0 +1,10 @@
+{
+  "name" : "mongotest",
+  "version" : "0.0.1",
+  "description" : "test app",
+  "dependencies" : {
+    "mongodb" : "1.1.1",
+    "nodeunit" : "0.7.4"
+  },
+  "scripts" : {"test" : "nodeunit test"}
+}

@@ -1,0 +1,10 @@
+{ 
+  "npm_test" : true,
+  "services": {
+    "mongo" : true
+  }
+}
+
+
+
+
